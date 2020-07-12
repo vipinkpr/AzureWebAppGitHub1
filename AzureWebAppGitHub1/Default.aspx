@@ -17,6 +17,7 @@
             <p>
                 <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
             </p>
+            <asp:Button runat="server" OnClick="Unnamed_Click" ID="btnClick" Text="Check Log"></asp:Button>
         </div>
         <div class="col-md-4">
             <h2>Get more libraries</h2>

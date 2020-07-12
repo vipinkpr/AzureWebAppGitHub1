@@ -13,5 +13,10 @@ namespace AzureWebAppGitHub1
         {
 
         }
+
+        protected void Unnamed_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Trace.TraceInformation("Invoking the Button Click Event");
+        }
     }
 }
